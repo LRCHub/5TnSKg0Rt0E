@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "扇子･オブ･ワンダー☆",
+  "base_artist": "澁若山",
+  "createdAt": "2026-03-06T14:04:25.617926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "扇子・オブ・ワンダー☆",
+      "artist": "澁若山",
+      "has_synced": false,
+      "path": "select/01_扇子・オブ・ワンダー☆_澁若山.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "扇子・オブ・ワンダー☆",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/02_扇子・オブ・ワンダー☆_i☆Ris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "扇子・オブ・ワンダー☆",
+      "artist": "澁若山",
+      "has_synced": false,
+      "path": "select/pl_01_扇子・オブ・ワンダー☆_澁若山.txt"
+    }
+  ]
+}
